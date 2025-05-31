@@ -21,13 +21,15 @@
 ## 🔗 Connect with me
 
 <p align="left">
-  <a href="https://linkedin.com/in/kshitij-barman-609542227" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="linkedin" />
+  <a href="https://linkedin.com/in/kshitij-barman-609542227" target="_blank" rel="noopener noreferrer">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="30" height="30" />
   </a>
-  <a href="mailto:kshitijbarman1234@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" alt="gmail" />
+  &nbsp;&nbsp;
+  <a href="mailto:kshitijbarman1234@gmail.com" rel="noopener noreferrer">
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Email" width="30" height="30" />
   </a>
 </p>
+
 
 
 ---
