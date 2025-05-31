@@ -4,6 +4,14 @@
 <img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
 
 <p align="left">
+  👨‍💻 I’m currently working on <strong>MERN stack projects</strong><br>
+  🌱 I’m currently learning <strong>System Design and Next.js</strong><br>
+  💬 Ask me about <strong>React, Node.js, Express, MongoDB</strong><br>
+  📫 How to reach me: <strong>kshitijbarman1234@gmail.com</strong><br>
+  ⚡ Fun fact: <em>I can debug CSS faster than I cook Maggi!</em> 🍜
+</p>
+
+<p align="left">
   <img src="https://komarev.com/ghpvc/?username=kshitijbarman&label=Profile%20views&color=0e75b6&style=flat" alt="kshitijbarman" />
 </p>
 
@@ -63,14 +71,13 @@
   </a>
 </p>
 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kshitijbarman&show_icons=true&locale=en&layout=compact" alt="kshitijbarman" />
+<h3 align="left">📊 GitHub Stats:</h3>
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kshitijbarman&layout=compact&theme=vision-friendly-dark" alt="Top Langs"/>
 </p>
-
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=kshitijbarman&show_icons=true&locale=en" alt="kshitijbarman" />
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=kshitijbarman&show_icons=true&theme=vision-friendly-dark" alt="GitHub Stats"/>
 </p>
-
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kshitijbarman&" alt="kshitijbarman" />
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kshitijbarman&theme=vision-friendly-dark" alt="GitHub Streak"/>
 </p>
