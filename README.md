@@ -18,21 +18,6 @@
 
 ---
 
-## 🔗 Connect with me
-
-<p align="left">
-  <a href="https://linkedin.com/in/kshitij-barman-609542227" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="linkedin" />
-  </a>
-  <a href="mailto:kshitijbarman1234@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" alt="gmail" />
-  </a>
-</p>
-
-
-
-
----
 
 ## 🏆 GitHub Trophies
 
