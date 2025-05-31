@@ -18,17 +18,17 @@
 
 ---
 
-## 📈 GitHub Stats & Activity
+## 🔗 Connect with me
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kshitijbarman&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats"/>
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kshitijbarman&theme=radical" alt="GitHub Streak"/>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kshitijbarman&layout=compact&theme=radical&langs_count=10" alt="Top Langs"/>
-  <br/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kshitijbarman&theme=react-dark&area=true&hide_border=true"/>
+<p align="left">
+  <a href="https://linkedin.com/in/kshitij-barman-609542227" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="linkedin" />
+  </a>
+  <a href="mailto:kshitijbarman1234@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" alt="gmail" />
+  </a>
 </p>
+
 
 ---
 
